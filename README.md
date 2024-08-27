@@ -31,12 +31,13 @@ To begin, type your names separated by the symbol ",".
 - Run Server
 
 - Open [NetworkComputerPlayer.java](src%2Fnetwork%2Fmodel%2FNetworkComputerPlayer.java)
-- If you want to add a computer player run the NetworkComputerPlayer class.
 - Change the port number if needed. This is written on line 41 of the NetworkComputerPlayer class.
-- Run one or more instances of the NetworkComputerPlayer class.
+- If you want to add a computer player run the NetworkComputerPlayer class.
+- If you want to add more computer players, open "Edit Configuration", click "Modify options", enable "Allow multiple instances", and run the NetworkComputerPlayer class more times.
 
 - Open [NetworkPlayer.java](src%2Fnetwork%2Fmodel%2FNetworkPlayer.java)
 - Change the port number if needed. This is written on line 62 of the NetworkPlayer class.
+- Open "Edit Configuration", click "Modify options", and enable "Allow multiple instances".
 - Run one or more instances of the NetworkPlayer class.
 - Type connect-your username to enter the lobby.
 - The first player who connects can enter flags (additional features). These are: chat, special combos.
