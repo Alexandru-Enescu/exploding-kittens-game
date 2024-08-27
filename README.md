@@ -30,7 +30,7 @@ To begin, type your names separated by the symbol ",".
 - The port number is 5000. To change the Port number, check the code line 103 of the Server class.
 - Run Server
 
-- Open [NetworkComputerPlayer.java](src%2Fnetwork%2Fmodel%2FNetworkPlayer.java)
+- Open [NetworkComputerPlayer.java](src%2Fnetwork%2Fmodel%2FNetworkComputerPlayer.java)
 - If you want to add a computer player run the NetworkComputerPlayer class.
 - Change the port number if needed. This is written on line 41 of the NetworkComputerPlayer class.
 - Run one or more instances of the NetworkComputerPlayer class.
