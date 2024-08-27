@@ -147,7 +147,7 @@ draw
 - When cards in combo are played, similar questions are asked and the same commands can be used to answer.
 
 ## Features
-- [ ] Networked Multiplayer: Play Exploding Kittens with friends over a network, with client and server application.
+- [✔] Networked Multiplayer: Play Exploding Kittens with friends over a network, with client and server application.
 - [ ] User Interface (UI): Experience the game with a user-friendly Text-based User Interface (TUI).
 - [ ] MVC Structure: The application follows the Model-View-Controller (MVC) architectural pattern, ensuring a well-organized and modular codebase.
 - [ ] Error Handling: Robust error handling for common exceptions, such as invalid input, guarantees a smooth gaming experience.
