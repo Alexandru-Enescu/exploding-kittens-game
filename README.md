@@ -147,11 +147,11 @@ draw
 - When cards in combo are played, similar questions are asked and the same commands can be used to answer.
 
 ## Features
-- [✔] Networked Multiplayer: Play Exploding Kittens with friends over a network, with client and server application.
-- [ ] User Interface (UI): Experience the game with a user-friendly Text-based User Interface (TUI).
-- [ ] MVC Structure: The application follows the Model-View-Controller (MVC) architectural pattern, ensuring a well-organized and modular codebase.
-- [ ] Error Handling: Robust error handling for common exceptions, such as invalid input, guarantees a smooth gaming experience.
-- [ ] Computer Player: Challenge yourself against a computer player, ensuring valid actions and adding an extra layer of excitement.
-- [ ] Chat Functionality: Engage in lively conversations with other players through a built-in chat function.
-- [ ] Lobby System: Join a lobby, where players can decide collectively to start a game of Exploding Kittens, providing a dynamic and social gaming environment.
-- [ ] Special Combos: Implement and enjoy the special combos as per the official game rules, adding strategic depth to your gameplay.
+- Networked Multiplayer: Play Exploding Kittens with friends over a network, with client and server application.
+- User Interface (UI): Experience the game with a user-friendly Text-based User Interface (TUI).
+- MVC Structure: The application follows the Model-View-Controller (MVC) architectural pattern, ensuring a well-organized and modular codebase.
+- Error Handling: Robust error handling for common exceptions, such as invalid input, guarantees a smooth gaming experience.
+- Computer Player: Challenge yourself against a computer player, ensuring valid actions and adding an extra layer of excitement.
+- Chat Functionality: Engage in lively conversations with other players through a built-in chat function.
+- Lobby System: Join a lobby, where players can decide collectively to start a game of Exploding Kittens, providing a dynamic and social gaming environment.
+- Special Combos: Implement and enjoy the special combos as per the official game rules, adding strategic depth to your gameplay.
