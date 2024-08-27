@@ -26,7 +26,7 @@ To begin, type your names separated by the symbol ",".
 - To draw a card and end your turn type 'draw'.
 
 ### Start Network Game
-- Open [Server.java](network%2Fcontroller%2FServer.java)
+- Open [Server.java](src%2Fnetwork%2Fcontroller%2FServer.java)
 - The port number is 5000. To change the Port number, check the code line 103 of the Server class.
 - Run Server
 
